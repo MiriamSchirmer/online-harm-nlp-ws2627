@@ -96,34 +96,46 @@ Each session of the crash course has two prep readings: a chapter from Jurafsky 
 
 This session introduces the course.
 
-### Part 1: NLP Crash Course
+<details open>
+<summary><b>Part 1: NLP Crash Course</b> (sessions 2 to 4)</summary>
 
 #### Session 2 (29 October). Text as data and defining online harm
 
-**Readings:**
+**Read before class:**
 
-- **[pp. 1–24]** Jurafsky, D. & Martin, J.H. (2026). Words and Tokens. *Speech and Language Processing*. 3rd ed. draft, ch. 2. https://web.stanford.edu/~jurafsky/slp3/2.pdf
-- Fortuna, P. & Nunes, S. (2018). A Survey on Automatic Detection of Hate Speech in Text. *ACM Computing Surveys* 51 (4): 1–30. https://dl.acm.org/doi/pdf/10.1145/3232676
+1. **[pp. 1–24]** Jurafsky, D. & Martin, J.H. (2026). Words and Tokens. *Speech and Language Processing*. 3rd ed. draft, ch. 2. [PDF](https://web.stanford.edu/~jurafsky/slp3/2.pdf)
+1. Fortuna, P. & Nunes, S. (2018). A Survey on Automatic Detection of Hate Speech in Text. *ACM Computing Surveys* 51 (4): 1–30. [Link](https://dl.acm.org/doi/pdf/10.1145/3232676)
 
 #### Session 3 (5 November). Supervised classification
 
-How can computers learn categories from examples? This session covers supervised classification, the annotation of training data and evaluation with precision, recall and F1. We pay special attention to problems typical of harm detection: rare classes, disagreement between annotators and biased datasets.
+*How can computers learn categories from examples?*
 
-**Readings:**
+**Topics:** Supervised classification, the annotation of training data and evaluation with precision, recall and F1.
 
-- Jurafsky, D. & Martin, J.H. (2026). Logistic Regression and Text Classification. *Speech and Language Processing*. 3rd ed. draft, ch. 4. https://web.stanford.edu/~jurafsky/slp3/4.pdf
-- Vidgen, B. & Derczynski, L. (2020). Directions in abusive language training data, a systematic review: Garbage in, garbage out. *PLOS ONE* 15 (12): e0243300. https://doi.org/10.1371/journal.pone.0243300
+We pay special attention to problems typical of harm detection: rare classes, disagreement between annotators and biased datasets.
+
+**Read before class:**
+
+1. Jurafsky, D. & Martin, J.H. (2026). Logistic Regression and Text Classification. *Speech and Language Processing*. 3rd ed. draft, ch. 4. [PDF](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
+1. Vidgen, B. & Derczynski, L. (2020). Directions in abusive language training data, a systematic review: Garbage in, garbage out. *PLOS ONE* 15 (12): e0243300. [Link](https://doi.org/10.1371/journal.pone.0243300)
 
 #### Session 4 (12 November). Transformers and LLMs
 
-How do modern language models represent meaning? This session covers embeddings, the intuition behind attention and pre-trained models such as BERT, and how to use them through Hugging Face. We end with prompting and zero-shot classification with LLMs.
+*How do modern language models represent meaning?*
 
-**Readings:**
+**Topics:** Embeddings, the intuition behind attention and pre-trained models such as BERT, and how to use them through Hugging Face.
 
-- Jurafsky, D. & Martin, J.H. (2026). Transformers and Pretraining. *Speech and Language Processing*. 3rd ed. draft, ch. 7. https://web.stanford.edu/~jurafsky/slp3/7.pdf
-- Plaza-del-Arco, F.M., Nozza, D. & Hovy, D. (2023). Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech. *Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH)*, pp. 60–68. https://aclanthology.org/2023.woah-1.6/
+We end with prompting and zero-shot classification with LLMs.
 
-### Part 2: Applications
+**Read before class:**
+
+1. Jurafsky, D. & Martin, J.H. (2026). Transformers and Pretraining. *Speech and Language Processing*. 3rd ed. draft, ch. 7. [PDF](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
+1. Plaza-del-Arco, F.M., Nozza, D. & Hovy, D. (2023). Respectful or Toxic? Using Zero-Shot Learning with Language Models to Detect Hate Speech. *Proceedings of the 7th Workshop on Online Abuse and Harms (WOAH)*, pp. 60–68. [Link](https://aclanthology.org/2023.woah-1.6/)
+
+</details>
+
+<details open>
+<summary><b>Part 2: Applications</b> (sessions 5 to 9)</summary>
 
 #### Session 5 (19 November). Practical: Topic modeling with BERTopic
 
@@ -137,7 +149,10 @@ How do modern language models represent meaning? This session covers embeddings,
 
 *Winter break: no sessions on 24 and 31 December.*
 
-### Part 3: Advanced Topics and Projects
+</details>
+
+<details open>
+<summary><b>Part 3: Advanced Topics and Projects</b> (sessions 10 to 14)</summary>
 
 #### Session 10 (7 January). Ethics of online harm research
 
@@ -157,7 +172,8 @@ Groups present the results of their projects.
 
 Continuation of the final presentations and wrap-up of the course.
 
----
+</details>
+
 
 ## Materials
 
