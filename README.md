@@ -22,7 +22,7 @@ After an introductory session, the course has three parts. Part 1 is a crash cou
 By the end of the course, students will be able to:
 
 - apply NLP methods to real-world data on harmful online discourse;
-- navigate the key methodological and ethical challenges in this area;
+- navigate methodological and ethical challenges in this area;
 - independently design and carry out a small-scale computational research project.
 
 ---
