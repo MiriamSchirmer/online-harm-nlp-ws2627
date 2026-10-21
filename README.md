@@ -76,7 +76,7 @@ Each group receives one shared grade for the mid-term presentation, the final pr
 
 Presentations are assessed as a whole using the following criteria:
 
-| Criterion | What we look at |
+| Criterion | Description |
 | --------- | --------------- |
 | Research question and motivation | Clear, relevant and grounded in the literature |
 | Data and method | Suited to the question; choices are explained |
