@@ -27,27 +27,28 @@ By the end of the course, students will be able to:
 
 ## Schedule
 
-| Session | Date | Type | Topic | Materials |
-|:-------:|:----:|:----:| ----- | --------- |
-| 1 | 22 Oct | ![Intro](https://img.shields.io/badge/Intro-lightgrey?style=flat-square) | [Course overview](#session-1-22-october-introduction) | [Slides](slides/01_Introduction.pdf) |
-| **Part 1: NLP Crash Course** | | | | |
-| 2 | 29 Oct | ![Theory](https://img.shields.io/badge/Theory-4C72B0?style=flat-square) | [Text as data and defining online harm](#session-2-29-october-text-as-data-and-defining-online-harm) |  |
-| 3 | 05 Nov | ![Theory](https://img.shields.io/badge/Theory-4C72B0?style=flat-square) | [Supervised classification](#session-3-5-november-supervised-classification) |  |
-| 4 | 12 Nov | ![Theory](https://img.shields.io/badge/Theory-4C72B0?style=flat-square) | [Transformers and LLMs](#session-4-12-november-transformers-and-llms) |  |
-| **Part 2: Applications** | | | | |
-| 5 | 19 Nov | ![Practical](https://img.shields.io/badge/Practical-55A868?style=flat-square) | [Topic modeling with BERTopic (project idea due)](#session-5-19-november-practical-topic-modeling-with-bertopic) |  |
-| 6 | 26 Nov | ![Practical](https://img.shields.io/badge/Practical-55A868?style=flat-square) | [Automated fact-checking](#session-6-26-november-practical-automated-fact-checking) |  |
-| 7 | 03 Dec | ![Practical](https://img.shields.io/badge/Practical-55A868?style=flat-square) | [Polarization](#session-7-3-december-practical-polarization) |  |
-| 8 | 10 Dec | ![Presentations](https://img.shields.io/badge/Presentations-DD8452?style=flat-square) | [Mid-term presentations I](#session-8-10-december-mid-term-presentations-i) |  |
-| 9 | 17 Dec | ![Presentations](https://img.shields.io/badge/Presentations-DD8452?style=flat-square) | [Mid-term presentations II](#session-9-17-december-mid-term-presentations-ii) |  |
-|  | 24 and 31 Dec |  | *Winter break, no sessions* |  |
-| **Part 3: Advanced Topics and Projects** | | | | |
-| 10 | 07 Jan | ![Discussion](https://img.shields.io/badge/Discussion-8172B3?style=flat-square) | [Ethics of online harm research](#session-10-7-january-ethics-of-online-harm-research) |  |
-| 11 | 14 Jan | ![Project lab](https://img.shields.io/badge/Project%20lab-937860?style=flat-square) | [Project lab or guest project presentation](#session-11-14-january-project-lab-or-guest-project-presentation) |  |
-| 12 | 21 Jan | ![Project lab](https://img.shields.io/badge/Project%20lab-937860?style=flat-square) | [Project lab](#session-12-21-january-project-lab) |  |
-| 13 | 28 Jan | ![Presentations](https://img.shields.io/badge/Presentations-DD8452?style=flat-square) | [Final presentations I](#session-13-28-january-final-presentations-i) |  |
-| 14 | 04 Feb | ![Presentations](https://img.shields.io/badge/Presentations-DD8452?style=flat-square) | [Final presentations II](#session-14-4-february-final-presentations-ii) |  |
-|  | mid-Feb or end of Mar | ![Deadline](https://img.shields.io/badge/Deadline-C44E52?style=flat-square) | [Project report due](#3-final-report-70) |  |
+<table>
+<tr><th>Session</th><th>Date</th><th>Type</th><th>Topic</th><th>Materials</th></tr>
+<tr><td align="center">1</td><td>22 Oct</td><td><img src="https://img.shields.io/badge/Intro-lightgrey?style=flat-square" alt="Intro"></td><td><a href="#session-1-22-october-introduction">Course overview</a></td><td><a href="slides/01_Introduction.pdf">Slides</a></td></tr>
+<tr><td></td><td colspan="4"><b>Part 1: NLP Crash Course</b></td></tr>
+<tr><td align="center">2</td><td>29 Oct</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-2-29-october-text-as-data-and-defining-online-harm">Text as data and defining online harm</a></td><td></td></tr>
+<tr><td align="center">3</td><td>05 Nov</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-3-5-november-supervised-classification">Supervised classification</a></td><td></td></tr>
+<tr><td align="center">4</td><td>12 Nov</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-4-12-november-transformers-and-llms">Transformers and LLMs</a></td><td></td></tr>
+<tr><td></td><td colspan="4"><b>Part 2: Applications</b></td></tr>
+<tr><td align="center">5</td><td>19 Nov</td><td><img src="https://img.shields.io/badge/Practical-55A868?style=flat-square" alt="Practical"></td><td><a href="#session-5-19-november-practical-topic-modeling-with-bertopic">Topic modeling with BERTopic (project idea due)</a></td><td></td></tr>
+<tr><td align="center">6</td><td>26 Nov</td><td><img src="https://img.shields.io/badge/Practical-55A868?style=flat-square" alt="Practical"></td><td><a href="#session-6-26-november-practical-automated-fact-checking">Automated fact-checking</a></td><td></td></tr>
+<tr><td align="center">7</td><td>03 Dec</td><td><img src="https://img.shields.io/badge/Practical-55A868?style=flat-square" alt="Practical"></td><td><a href="#session-7-3-december-practical-polarization">Polarization</a></td><td></td></tr>
+<tr><td align="center">8</td><td>10 Dec</td><td><img src="https://img.shields.io/badge/Presentations-DD8452?style=flat-square" alt="Presentations"></td><td><a href="#session-8-10-december-mid-term-presentations-i">Mid-term presentations I</a></td><td></td></tr>
+<tr><td align="center">9</td><td>17 Dec</td><td><img src="https://img.shields.io/badge/Presentations-DD8452?style=flat-square" alt="Presentations"></td><td><a href="#session-9-17-december-mid-term-presentations-ii">Mid-term presentations II</a></td><td></td></tr>
+<tr><td align="center"></td><td>24 and 31 Dec</td><td></td><td><i>Winter break, no sessions</i></td><td></td></tr>
+<tr><td></td><td colspan="4"><b>Part 3: Advanced Topics and Projects</b></td></tr>
+<tr><td align="center">10</td><td>07 Jan</td><td><img src="https://img.shields.io/badge/Discussion-8172B3?style=flat-square" alt="Discussion"></td><td><a href="#session-10-7-january-ethics-of-online-harm-research">Ethics of online harm research</a></td><td></td></tr>
+<tr><td align="center">11</td><td>14 Jan</td><td><img src="https://img.shields.io/badge/Project%20lab-937860?style=flat-square" alt="Project lab"></td><td><a href="#session-11-14-january-project-lab-or-guest-project-presentation">Project lab or guest project presentation</a></td><td></td></tr>
+<tr><td align="center">12</td><td>21 Jan</td><td><img src="https://img.shields.io/badge/Project%20lab-937860?style=flat-square" alt="Project lab"></td><td><a href="#session-12-21-january-project-lab">Project lab</a></td><td></td></tr>
+<tr><td align="center">13</td><td>28 Jan</td><td><img src="https://img.shields.io/badge/Presentations-DD8452?style=flat-square" alt="Presentations"></td><td><a href="#session-13-28-january-final-presentations-i">Final presentations I</a></td><td></td></tr>
+<tr><td align="center">14</td><td>04 Feb</td><td><img src="https://img.shields.io/badge/Presentations-DD8452?style=flat-square" alt="Presentations"></td><td><a href="#session-14-4-february-final-presentations-ii">Final presentations II</a></td><td></td></tr>
+<tr><td align="center"></td><td>mid-Feb or end of Mar</td><td><img src="https://img.shields.io/badge/Deadline-C44E52?style=flat-square" alt="Deadline"></td><td><a href="#3-final-report-70">Project report due</a></td><td></td></tr>
+</table>
 
 ---
 
@@ -166,7 +167,7 @@ How to add materials (this comment is not shown on GitHub):
 1. Export the slides from PowerPoint as PDF (File > Export > PDF), name them like 02_Text_as_Data.pdf
    and upload them to slides/.
 2. Upload notebooks to notebooks/, e.g. notebooks/03_Preprocessing.ipynb.
-3. In the schedule table, fill the Materials cell of that session, for example:
-   [Slides](slides/02_Text_as_Data.pdf)
-   [Notebook](notebooks/03_Preprocessing.ipynb) [Open in Colab](https://colab.research.google.com/github/MiriamSchirmer/online-harm-nlp-ws2627/blob/main/notebooks/03_Preprocessing.ipynb)
+3. In the schedule table, put the links into the last <td></td> (Materials) of that session's row, for example:
+   <a href="slides/02_Text_as_Data.pdf">Slides</a>
+   <a href="notebooks/03_Preprocessing.ipynb">Notebook</a> <a href="https://colab.research.google.com/github/MiriamSchirmer/online-harm-nlp-ws2627/blob/main/notebooks/03_Preprocessing.ipynb">Open in Colab</a>
 -->
