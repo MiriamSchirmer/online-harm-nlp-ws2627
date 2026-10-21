@@ -92,12 +92,12 @@ Presentations are assessed as a whole using the following criteria:
 
 Each session of the crash course has two prep readings: a chapter from Jurafsky and Martin's textbook *Speech and Language Processing* (3rd edition draft, [freely available online](https://web.stanford.edu/~jurafsky/slp3/)) and an article on online harm. Please read both before the session. Readings for the later sessions will be announced during the semester. All readings are freely accessible.
 
-### Session 1 (22 October). Introduction
+#### Session 1 (22 October). Introduction
 
 This session introduces the course.
 
 <details open>
-<summary><b>Part 1: NLP Crash Course</b> (sessions 2 to 4)</summary>
+<summary><img src="https://img.shields.io/badge/Part%201-NLP%20Crash%20Course-34495E?style=flat-square" alt="Part 1: NLP Crash Course" height="36"> &nbsp;sessions 2 to 4</summary>
 
 #### Session 2 (29 October). Text as data and defining online harm
 
@@ -135,7 +135,7 @@ We end with prompting and zero-shot classification with LLMs.
 </details>
 
 <details open>
-<summary><b>Part 2: Applications</b> (sessions 5 to 9)</summary>
+<summary><img src="https://img.shields.io/badge/Part%202-Applications-34495E?style=flat-square" alt="Part 2: Applications" height="36"> &nbsp;sessions 5 to 9</summary>
 
 #### Session 5 (19 November). Practical: Topic modeling with BERTopic
 
@@ -152,7 +152,7 @@ We end with prompting and zero-shot classification with LLMs.
 </details>
 
 <details open>
-<summary><b>Part 3: Advanced Topics and Projects</b> (sessions 10 to 14)</summary>
+<summary><img src="https://img.shields.io/badge/Part%203-Advanced%20Topics%20and%20Projects-34495E?style=flat-square" alt="Part 3: Advanced Topics and Projects" height="36"> &nbsp;sessions 10 to 14</summary>
 
 #### Session 10 (7 January). Ethics of online harm research
 
