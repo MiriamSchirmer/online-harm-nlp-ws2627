@@ -1,10 +1,12 @@
 # Applied Natural Language Processing for Online Harm Detection
 
-**Universität Konstanz, Winter Semester 2026/27**
+**University of Konstanz, Winter Semester 2026/27**
 Thursdays, 15:15–16:45, C422
 
 **Instructor:** Miriam Schirmer (miriam.schirmer@uni-konstanz.de)
+
 **Office hours:** by appointment; please email to arrange a time
+
 **Course type:** MA S / PhD S, taught in English
 
 ---
