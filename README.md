@@ -68,7 +68,7 @@ Assessment is based on your research project and consists of three parts.
 
 ### 3. Final report (70%)
 
-Deadline: either mid-February or end of March; you commit to a date during your first project presentation.
+Deadline: either mid-February or end of March; you commit to a date during your first project presentation. The final report is accompanied by a ~15 minutes discussion (separate meetings with the instructor per team).
 
 ### Groups and grading
 
