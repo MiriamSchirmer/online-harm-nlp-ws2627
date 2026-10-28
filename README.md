@@ -31,7 +31,7 @@ By the end of the course, students will be able to:
 
 <table>
 <tr><th>Session</th><th>Date</th><th>Type</th><th>Topic</th><th>Materials</th></tr>
-<tr><td align="center">1</td><td>22 Oct</td><td><img src="https://img.shields.io/badge/Intro-lightgrey?style=flat-square" alt="Intro"></td><td><a href="#session-1-22-october-introduction">Course overview</a></td><td><a href="slides/01_Introduction.pdf">Slides</a></td></tr>
+<tr><td align="center">1</td><td>22 Oct</td><td><img src="https://img.shields.io/badge/Intro-lightgrey?style=flat-square" alt="Intro"></td><td><a href="#session-1-22-october-introduction">Course overview</a></td><td><a href="slides/Session01_Intro_MA_NLP_Project.pdf">Slides</a></td></tr>
 <tr><td></td><td colspan="4"><b>Part 1: NLP Crash Course</b></td></tr>
 <tr><td align="center">2</td><td>29 Oct</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-2-29-october-text-as-data-and-defining-online-harm">Text as data and defining online harm</a></td><td></td></tr>
 <tr><td align="center">3</td><td>05 Nov</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-3-5-november-supervised-classification">Supervised classification</a></td><td></td></tr>
