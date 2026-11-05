@@ -179,6 +179,7 @@ Continuation of the final presentations and wrap-up of the course.
 
 - **Slides** are linked in the schedule above after each session and stored in [`slides/`](./slides).
 - **Notebooks** for the practicals are stored in [`notebooks/`](./notebooks). Each one has an *Open in Colab* link, so they run in your browser without installing anything.
+- **Data sources** for your project: [`data_sources.md`](./data_sources.md) lists dataset repositories and a few example datasets.
 
 <!--
 How to add materials (this comment is not shown on GitHub):
