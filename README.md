@@ -120,10 +120,6 @@ This session introduces the course.
 
 *How can computers learn categories from examples?*
 
-**Topics:** Supervised classification, the annotation of training data and evaluation with precision, recall and F1.
-
-We pay special attention to problems typical of harm detection: rare classes, disagreement between annotators and biased datasets.
-
 **Read before class:**
 
 1. Jurafsky, D. & Martin, J.H. (2026). Logistic Regression and Text Classification. *Speech and Language Processing*. 3rd ed. draft, ch. 4. [PDF](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
@@ -132,10 +128,6 @@ We pay special attention to problems typical of harm detection: rare classes, di
 #### Session 4 (12 November). Transformers and LLMs
 
 *How do modern language models represent meaning?*
-
-**Topics:** Embeddings, the intuition behind attention and pre-trained models such as BERT, and how to use them through Hugging Face.
-
-We end with prompting and zero-shot classification with LLMs.
 
 **Read before class:**
 
