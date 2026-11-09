@@ -86,6 +86,14 @@ Presentations are assessed as a whole using the following criteria:
 | Presentation | Structure, clarity, timing |
 | Discussion | Questions are moderated by the group |
 
+### Applied political science papers
+
+1. Garg, N., Schiebinger, L., Jurafsky, D., & Zou, J. (2018). Word embeddings quantify 100 years of gender and ethnic stereotypes. *Proceedings of the National Academy of Sciences*, *115*(16), E3635–E3644. [Link](https://doi.org/10.1073/pnas.1720347115)
+1. Gründl, J. (2022). Populist ideas on social media: A dictionary-based measurement of populist communication. *New Media & Society*, *24*(6), 1481–1499. [Link](https://doi.org/10.1177/1461444820976970)
+1. Le Mens, G., & Gallego, A. (2025). Positioning political texts with large language models by asking and averaging. *Political Analysis*, *33*(3), 274–282. [Link](https://doi.org/10.1017/pan.2024.29)
+1. Peterson, A., & Spirling, A. (2018). Classification accuracy as a substantive quantity of interest: Measuring polarization in Westminster systems. *Political Analysis*, *26*(1), 120–128. [Link](https://doi.org/10.1017/pan.2017.39)
+1. Rauh, C. (2023). Clear messages to the European public? The language of European Commission press releases 1985–2020. *Journal of European Integration*, *45*(4), 683–701. [Link](https://doi.org/10.1080/07036337.2022.2134860)
+
 ---
 
 ## Weekly content and readings
