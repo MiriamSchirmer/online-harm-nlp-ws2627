@@ -90,21 +90,22 @@ Presentations are assessed as a whole using the following criteria:
 
 ### Applied political/social science papers
 
+1. Rauh, C. (2023). Clear messages to the European public? The language of European Commission press releases 1985–2020. *Journal of European Integration*, *45*(4), 683–701. [Link](https://doi.org/10.1080/07036337.2022.2134860)
 1. Garg, N., Schiebinger, L., Jurafsky, D., & Zou, J. (2018). Word embeddings quantify 100 years of gender and ethnic stereotypes. *Proceedings of the National Academy of Sciences*, *115*(16), E3635–E3644. [Link](https://doi.org/10.1073/pnas.1720347115)
 1. Gründl, J. (2022). Populist ideas on social media: A dictionary-based measurement of populist communication. *New Media & Society*, *24*(6), 1481–1499. [Link](https://doi.org/10.1177/1461444820976970)
 1. Le Mens, G., & Gallego, A. (2025). Positioning political texts with large language models by asking and averaging. *Political Analysis*, *33*(3), 274–282. [Link](https://doi.org/10.1017/pan.2024.29)
 1. Peterson, A., & Spirling, A. (2018). Classification accuracy as a substantive quantity of interest: Measuring polarization in Westminster systems. *Political Analysis*, *26*(1), 120–128. [Link](https://doi.org/10.1017/pan.2017.39)
-1. Rauh, C. (2023). Clear messages to the European public? The language of European Commission press releases 1985–2020. *Journal of European Integration*, *45*(4), 683–701. [Link](https://doi.org/10.1080/07036337.2022.2134860)
+
 
 ---
 
 ## Weekly content and readings
 
-Each session of the crash course has two prep readings: a chapter from Jurafsky and Martin's textbook *Speech and Language Processing* (3rd edition draft, [freely available online](https://web.stanford.edu/~jurafsky/slp3/)) and an article on online harm. Please read both before the session. Readings for the later sessions will be announced during the semester. All readings are freely accessible.
+Each session of the crash course has two prep readings: a chapter from Jurafsky and Martin's textbook *Speech and Language Processing* (3rd edition draft, [freely available online](https://web.stanford.edu/~jurafsky/slp3/)) and an article on online harm. Please read both before the session.
 
 #### Session 1 (22 October). Introduction
 
-This session introduces the course.
+Introduction, admin, outline.
 
 <details open>
 <summary><img src="https://img.shields.io/badge/Part%201-NLP%20Crash%20Course-34495E?style=flat-square" alt="Part 1: NLP Crash Course" height="36"> &nbsp;sessions 2 to 4</summary>
