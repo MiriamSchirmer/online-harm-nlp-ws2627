@@ -64,7 +64,7 @@ Assessment is based on your research project and consists of three parts.
 
 ### 2. Final presentation (15%)
 
-28 January or 4 February 2027, in class. You present your results.
+28 January or 4 February 2027, in class. You present the current state of your project and, if applicable, preliminary results. It should be clear how the project has evolved since your first presentation.
 
 ### 3. Final report (70%)
 
