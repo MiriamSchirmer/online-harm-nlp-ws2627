@@ -72,7 +72,7 @@ Deadline: either mid-February or end of March; you commit to a date during your 
 
 ### Groups and grading
 
-Projects can be done individually or in pairs (groups of three on request). Please submit a short project idea, and the names of your group members if you work in a group, by **19 November**.
+Projects are done in pairs (individual projects on request). Please submit a short project idea (this can be a very vague topic that can be changed later on), and the names of your group members if you work in a group, by **19 November**.
 
 Each group receives one shared grade for the mid-term presentation, the final presentation and the report. Groups may divide the work as they see fit, but all members are expected to understand the entire project, to present and to answer questions. During the discussion, questions may be addressed to any group member about any part of the project. Reports should include a brief statement of each member's contributions.
 
