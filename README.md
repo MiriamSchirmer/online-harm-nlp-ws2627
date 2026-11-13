@@ -37,7 +37,7 @@ By the end of the course, students will be able to:
 <tr><td align="center">3</td><td>05 Nov</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-3-5-november-supervised-classification">Supervised classification</a></td><td><a href="slides/Session03_Classification_MA_NLP_Project.pdf">Slides</a><br><a href="exercises/Annotation_Exercise_Session3.xlsx">Annotation sheet</a></td></tr>
 <tr><td align="center">4</td><td>12 Nov</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-4-12-november-transformers-and-llms">Transformers and LLMs</a></td><td><a href="slides/Session04_Transformers_MA_NLP_Project.pdf">Slides</a><br><a href="https://colab.research.google.com/github/MiriamSchirmer/online-harm-nlp-ws2627/blob/main/notebooks/02_Loading_an_LLM_Mini.ipynb">Notebook (Colab)</a></td></tr>
 <tr><td></td><td colspan="4"><b>Part 2: Applications</b></td></tr>
-<tr><td align="center">5</td><td>19 Nov</td><td><img src="https://img.shields.io/badge/Practical-55A868?style=flat-square" alt="Practical"></td><td><a href="#session-5-19-november-practical-topic-modeling-with-bertopic">Topic modeling with BERTopic (project idea due)</a></td><td></td></tr>
+<tr><td align="center">5</td><td>19 Nov</td><td><img src="https://img.shields.io/badge/Practical-55A868?style=flat-square" alt="Practical"></td><td><a href="#session-5-19-november-practical-methods-overview-and-guided-topic-brainstorming">Practical methods overview and guided topic brainstorming (project idea due)</a></td><td></td></tr>
 <tr><td align="center">6</td><td>26 Nov</td><td><img src="https://img.shields.io/badge/Practical-55A868?style=flat-square" alt="Practical"></td><td><a href="#session-6-26-november-practical-automated-fact-checking">Automated fact-checking</a></td><td></td></tr>
 <tr><td align="center">7</td><td>03 Dec</td><td><img src="https://img.shields.io/badge/Practical-55A868?style=flat-square" alt="Practical"></td><td><a href="#session-7-3-december-practical-polarization">Polarization</a></td><td></td></tr>
 <tr><td align="center">8</td><td>10 Dec</td><td><img src="https://img.shields.io/badge/Presentations-DD8452?style=flat-square" alt="Presentations"></td><td><a href="#session-8-10-december-mid-term-presentations-i">Mid-term presentations I</a></td><td></td></tr>
@@ -140,7 +140,7 @@ Introduction, admin, outline.
 <details open>
 <summary><img src="https://img.shields.io/badge/Part%202-Applications-34495E?style=flat-square" alt="Part 2: Applications" height="36"> &nbsp;sessions 5 to 9</summary>
 
-#### Session 5 (19 November). Practical: Topic modeling with BERTopic
+#### Session 5 (19 November). Practical methods overview and guided topic brainstorming
 
 #### Session 6 (26 November). Practical: Automated fact-checking
 
