@@ -38,8 +38,8 @@ By the end of the course, students will be able to:
 <tr><td align="center">4</td><td>12 Nov</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-4-12-november-transformers-and-llms">Transformers and LLMs</a></td><td><a href="slides/Session04_Transformers_MA_NLP_Project.pdf">Slides</a><br><a href="https://colab.research.google.com/github/MiriamSchirmer/online-harm-nlp-ws2627/blob/main/notebooks/02_Loading_an_LLM_Mini.ipynb">Notebook&nbsp;(Colab)</a></td></tr>
 <tr><td></td><td colspan="4"><b>Part 2: Applications</b></td></tr>
 <tr><td align="center">5</td><td>19 Nov</td><td><img src="https://img.shields.io/badge/Practical-55A868?style=flat-square" alt="Practical"></td><td><a href="#session-5-19-november-practical-methods-overview-and-guided-topic-brainstorming">Practical methods overview and guided topic brainstorming (project idea due)</a></td><td><a href="slides/Session05_MethodsOverview_MA_NLP_Project.pdf">Slides</a><br><a href="https://colab.research.google.com/github/MiriamSchirmer/online-harm-nlp-ws2627/blob/main/notebooks/03_Methods_Overview_Press_Releases.ipynb">Notebook&nbsp;(Colab)</a><br><a href="data/press_releases_sample.csv">Data (CSV)</a></td></tr>
-<tr><td align="center">6</td><td>26 Nov</td><td><img src="https://img.shields.io/badge/Practical-55A868?style=flat-square" alt="Practical"></td><td><a href="#session-6-26-november-practical-automated-fact-checking">Automated fact-checking</a></td><td></td></tr>
-<tr><td align="center">7</td><td>03 Dec</td><td><img src="https://img.shields.io/badge/Practical-55A868?style=flat-square" alt="Practical"></td><td><a href="#session-7-3-december-practical-polarization">Polarization</a></td><td></td></tr>
+<tr><td align="center">6</td><td>26 Nov</td><td><img src="https://img.shields.io/badge/Practical-55A868?style=flat-square" alt="Practical"></td><td><a href="#session-6-26-november-practical-automated-fact-checking">Automated fact-checking</a></td><td><a href="https://colab.research.google.com/github/MiriamSchirmer/online-harm-nlp-ws2627/blob/main/notebooks/04_Automated_Fact_Checking.ipynb">Notebook&nbsp;(Colab)</a></td></tr>
+<tr><td align="center">7</td><td>03 Dec</td><td><img src="https://img.shields.io/badge/Practical-55A868?style=flat-square" alt="Practical"></td><td><a href="#session-7-3-december-practical-prompting">Prompting</a></td><td></td></tr>
 <tr><td align="center">8</td><td>10 Dec</td><td><img src="https://img.shields.io/badge/Presentations-DD8452?style=flat-square" alt="Presentations"></td><td><a href="#session-8-10-december-mid-term-presentations-i">Mid-term presentations I</a></td><td></td></tr>
 <tr><td align="center">9</td><td>17 Dec</td><td><img src="https://img.shields.io/badge/Presentations-DD8452?style=flat-square" alt="Presentations"></td><td><a href="#session-9-17-december-mid-term-presentations-ii">Mid-term presentations II</a></td><td></td></tr>
 <tr><td align="center"></td><td>24 and 31 Dec</td><td></td><td><i>Winter break, no sessions</i></td><td></td></tr>
@@ -144,7 +144,7 @@ Introduction, admin, outline.
 
 #### Session 6 (26 November). Practical: Automated fact-checking
 
-#### Session 7 (3 December). Practical: Polarization
+#### Session 7 (3 December). Practical: Prompting
 
 #### Session 8 (10 December). Mid-term presentations I
 
